@@ -1,0 +1,13 @@
+{
+  "name": "Theme Scheduler",
+  "description": "Automatically switch between GNOME's light and dark themes at your chosen times",
+  "gettext-domain": "theme-scheduler@lsbcodes",
+  "uuid": "theme-scheduler@lsbcodes",
+  "settings-schema": "org.gnome.shell.extensions.theme-scheduler",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 1,
+  "url": "https://github.com/lsantiagoba/ThemeScheduler",
+  "donations": {
+    "paypal": "leandrosb3"
+  }
+}

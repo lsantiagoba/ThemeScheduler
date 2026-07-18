@@ -1,4 +1,5 @@
 *.zip
-extension.js
-metadata.json
-prefs.js
+/extension.js
+/metadata.json
+/prefs.js
+/locale/

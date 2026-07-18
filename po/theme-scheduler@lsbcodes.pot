@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Scheduler 1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Theme Scheduler"
+msgstr ""
+
+msgid "Automatically switch between GNOME's light and dark themes at your chosen times"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Theme schedule"
+msgstr ""
+
+msgid "Times use your computer’s local clock and the 24-hour format."
+msgstr ""
+
+msgid "Light theme starts"
+msgstr ""
+
+msgid "Dark theme starts"
+msgstr ""
+
+msgid "Changes are automatic"
+msgstr ""
+
+msgid "The current theme is updated as soon as you change either time."
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Support development"
+msgstr ""
+
+msgid "If Theme Scheduler helps you, consider making a donation."
+msgstr ""
+
+msgid "Donate"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
