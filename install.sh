@@ -2,7 +2,7 @@
 set -e
 
 UUID="theme-scheduler@lsbcodes"
-SOURCE_DIR="src/v45-46-47-48-49-50"
+SOURCE_DIR="src/v45-46-47-48-49-50-51"
 TARGET="$HOME/.local/share/gnome-shell/extensions/$UUID"
 SHELL_VERSION=$(gnome-shell --version | awk '{split($3, version, "."); print version[1]}')
 
