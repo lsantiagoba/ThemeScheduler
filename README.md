@@ -7,7 +7,7 @@ GNOME Shell extension that automatically switches the system color scheme at tim
 - Choose separate start times for the light and dark themes.
 - Uses the local system clock and supports schedules that cross midnight.
 - Applies schedule changes immediately and checks the current theme automatically.
-- Supports GNOME Shell 45, 46, 47, 48, 49, and 50.
+- Supports GNOME Shell 45, 46, 47, 48, 49, 50, 51.
 - Localized in Arabic, Chinese, English, French, German, Italian, Japanese,
   Korean, Portuguese, Russian, and Spanish.
 

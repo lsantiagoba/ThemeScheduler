@@ -4,7 +4,7 @@
   "gettext-domain": "theme-scheduler@lsbcodes",
   "uuid": "theme-scheduler@lsbcodes",
   "settings-schema": "org.gnome.shell.extensions.theme-scheduler",
-  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
   "version": 1,
   "url": "https://github.com/lsantiagoba/ThemeScheduler",
   "donations": {
